@@ -1,7 +1,7 @@
 # React + Vite
 
 ##To start 
-type ```bash
+type 
 
 ```
 npm i
